@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "Emp_Name": "Mythili",
+    "Salary": 75000
+  },
+  {
+    "id": 102,
+    "Emp_Name": "Lavanya",
+    "Salary": 75000
+  },
+  {
+    "id": 103,
+    "Emp_Name": "Naveen kumar",
+    "Salary": 75000
+  },
+  {
+    "id": 104,
+    "Emp_Name": "Santhosh",
+    "Salary": 75000
+  },
+  {
+    "id": 105,
+    "Emp_Name": "Selvaraj",
+    "Salary": 75000
+  },
+  {
+    "id": 106,
+    "Emp_Name": "Kiruba",
+    "Salary": 75000
+  }
+]
